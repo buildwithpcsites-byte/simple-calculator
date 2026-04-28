@@ -13,3 +13,6 @@ A basic calculator built using HTML, CSS, and JavaScript.
 
 ## Author
 Sameer Mansuri
+
+## Update 1
+Improved project documentation.
